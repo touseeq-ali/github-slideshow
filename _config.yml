@@ -1,6 +1,6 @@
 timezone:    Europe/Berlin
 future:      false
-# Set baseurl to the base path of the site eg "/mytalk"
+# fdfSet baseurl to the base path of the site eg "/mytalk"
 # baseurl:     "/github-slideshow"
 # The allowed values are 'rouge', 'pygments' or null.
 highlighter: rouge
